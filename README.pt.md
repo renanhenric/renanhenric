@@ -1,4 +1,4 @@
-# 👋 Olá pessoal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+# 👋 Olá pessoal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 <br />
@@ -13,11 +13,11 @@ Sou comunicativo, sociável, autodidata e muito comprometido — sempre aberto a
 
 - 📊 Focado em **Análise de Dados**, **Business Intelligence** e **Automatização de Processos**  
 - 🚀 Aprimorando conhecimentos em **Visualização de Dados**, **Aprendizado de Máquina** e **Desenvolvimento de Aplicações**
-- 💼 Disponível para freelas ou colaborações — [email](mailto:renanhenrique2000@hotmail.com)
+- 💼 Disponível para freelas ou colaborações — [email](mailto:renanhenrique263@gmail.com)
 
 ---
 
-## 🚀 Linguagens & Ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30">
+# 🚀 Linguagens & Ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30px">
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
