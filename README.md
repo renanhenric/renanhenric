@@ -20,6 +20,11 @@ I'm communicative, sociable, self-taught, and highly committed — always open t
 
 ---
 
+📄 Este README também está disponível em outros idiomas:
+
+- 🇧🇷 [Versão em Português](README.pt.md)
+  
+
 ## 🚀 Languages & Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30">
 
 <p align="center">
