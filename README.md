@@ -40,6 +40,8 @@ I'm communicative, sociable, self-taught, and highly committed — always open t
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+---
+
 📄 Este README também está disponível em outros idiomas:
 
 - 🇧🇷 [Versão em Português](README.pt.md)
